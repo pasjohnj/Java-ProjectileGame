@@ -1,7 +1,7 @@
 Java-ProjectileGame
 ===================
 
-Created as a final project for WCC class CPS261: Advanced Java Concepts
+Created as a final project for Washtenaw Community College class CPS261: Advanced Java Concepts
 
 The purpose of this project was to demonstrate all the concepts the student had learned to that point.  This project includes a 
 number of self-designed classes, inheritance, threading, Swing, networking and some basic physics.  
